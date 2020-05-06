@@ -1,0 +1,21 @@
+export default {
+  CATEGORY_CODE_NPM: 'npm',
+  CATEGORY_CODE_MAVEN: 'maven',
+  CATEGORY_CODE_COMPOSER: 'composer',
+  CATEGORY_CODE_RUBY_GEMS: 'ruby_gems',
+  CATEGORY_CODE_GIT_HUB: 'git_hub',
+  CATEGORY_CODE_NU_GET: 'nu_get',
+  CATEGORY_CODE_COCOA_PODS: 'cocoa_pods',
+  CATEGORY_CODE_PY_PI: 'py_pi',
+  EXPORT_CHANNEL: 'exportData',
+  EXPORT_STATE_CHANNEL: 'exportState',
+  EXPORT_PROGRESS_CHANNEL: 'exportProgress',
+  IMPORT_CHANNEL: 'importData',
+  IMPORT_SELECTED_CHANNEL: 'importSelected',
+  ELECTRON_DOWNLOAD_STATE_PROGRESSING: 'progressing',
+  ELECTRON_DOWNLOAD_STATE_COMPLETED: 'completed',
+  ELECTRON_DOWNLOAD_STATE_INTERRUPTED: 'interrupted',
+  ELECTRON_DOWNLOAD_STATE_CANCELLED: 'cancelled',
+  DB_SETTING_KEY_REMIND_PERIOD: 'remind_period',
+  DB_SETTING_KEY_REMIND_ENABLED: 'remind_enabled'
+}
