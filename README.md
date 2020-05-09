@@ -5,17 +5,17 @@
 ## 功能介绍
 ### 添加自己想要监控的包后，可以手动查询有哪些包已更新
 
-<img src="https://gitee.com/luhaidongxl/package-update-inspector/raw/master/doc/img/包-添加.gif" width="50%" height="50%" />
+<img src="https://cdn.jsdelivr.net/gh/luhaidong/images@v1.0/package-update-inspector/包-添加.gif" width="50%" height="50%" />
 
-<img src="https://gitee.com/luhaidongxl/package-update-inspector/raw/master/doc/img/包-手动查询.gif" width="50%" height="50%" />
+<img src="https://cdn.jsdelivr.net/gh/luhaidong/images@v1.0/package-update-inspector/包-手动查询.gif" width="50%" height="50%" />
 
 ### 有更新后，可点击版本，查看包更新详情
 
-<img src="https://gitee.com/luhaidongxl/package-update-inspector/raw/master/doc/img/包-查看详情.gif" width="50%" height="50%" />
+<img src="https://cdn.jsdelivr.net/gh/luhaidong/images@v1.0/package-update-inspector/包-查看详情.gif" width="50%" height="50%" />
 
 ### 知晓版本更新后，可点击`对号`，表示已知晓更新
 
-<img src="https://gitee.com/luhaidongxl/package-update-inspector/raw/master/doc/img/包-已知晓.gif" width="50%" height="50%" />
+<img src="https://cdn.jsdelivr.net/gh/luhaidong/images@v1.0/package-update-inspector/包-已知晓.gif" width="50%" height="50%" />
 
 ### 除了手动查询，也可以设置每天定时查询
 
